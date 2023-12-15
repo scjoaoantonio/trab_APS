@@ -13,8 +13,8 @@
 
 ### Informações
 
-> O programa ajudará a organizar um campeonato de futebol do usuário
+ * O programa ajudará a organizar um campeonato de futebol do usuário
 
-> Nele poderá inserir campeonatos, times, jogadores
+ * Nele poderá inserir campeonatos, times, jogadores
 
-> Possui 3 tipos de usuários: ADM, EDITOR, USUÁRIO
+ * Possui 3 tipos de usuários: ADM, EDITOR, USUÁRIO
